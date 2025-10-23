@@ -23,11 +23,11 @@ img{
     width: 100%;
 }
 .cakes img{
-    max-width: 50%;
+    max-width: 100%;
 }
 .cakes{
-
-    width:50%;
+    width:calc(50% - 14px);
+    margin: 7px;
 }
 .cakebox{
     display:flex;
