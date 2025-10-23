@@ -1,0 +1,36 @@
+body{
+    background-color: #ffc0cb;
+}
+
+.top{
+    display:flex;
+    width: auto;
+    font-weight: bold;
+    width: auto;
+    color: #800000;
+    padding: 50px;
+    width: 800px;
+}
+
+h2{
+    color: #800000;
+}
+.top img{
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100%;
+}
+.cakes img{
+    max-width: 50%;
+}
+.cakes{
+
+    width:50%;
+}
+.cakebox{
+    display:flex;
+    flex-wrap:wrap;
+    width:auto;
+}
